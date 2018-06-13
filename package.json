@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/ElviraMiro/barong_api_key_example#readme",
   "dependencies": {
+    "authenticator": "^1.1.5",
     "axios": "^0.18.0",
     "base-64": "^0.1.0",
     "jsonwebtoken": "^8.3.0",
+    "otpauth": "^3.2.1",
     "query-string": "^6.1.0"
   }
 }
